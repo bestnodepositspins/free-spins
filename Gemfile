@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "jekyll", "~> 4.3"
+gem "jekyll-datapage_gen"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
